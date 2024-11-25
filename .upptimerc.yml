@@ -21,5 +21,17 @@ status-website:
     # - title: 网页实时状态监控
     # href: https://windiscover.com/history/windiscover
 
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: 所有系统都正常运行中
+  liveStatus: 实时状态
+  overallUptimeTitle: 整体在线率
+  averageResponseTime: "平均响应时长：$TIMEms"
+  averageResponseTimeTitle: 平均响应时长
+  sevelDayResponseTime: 7 天内的响应时长
+  responseTimeMs: 响应时长 (ms)
+  up: 在线
+  # ...
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
