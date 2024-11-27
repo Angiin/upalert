@@ -22,7 +22,7 @@ status-website:
     # href: https://windiscover.com/history/windiscover
 
 workflowSchedule:
-  updates: "0 3 * * *"
+  updates: "15 * * * *"
   uptime: "*/5 * * * *"
 
 i18n:
