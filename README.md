@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.windiscover.com): <!--live status--> **所有系统都正常运行中**
+# [📈 实时状态](https://status.windiscover.com): <!--live status--> **所有系统都正常运行中**
 
 This repository contains the open-source uptime monitor and status page for [angiin](https://status.windiscover.com), powered by [Upptime](https://github.com/upptime/upptime).
 
