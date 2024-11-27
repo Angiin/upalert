@@ -21,6 +21,10 @@ status-website:
     # - title: 网页实时状态监控
     # href: https://windiscover.com/history/windiscover
 
+workflowSchedule:
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: 所有系统都正常运行中
