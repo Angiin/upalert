@@ -22,7 +22,7 @@ status-website:
     # href: https://windiscover.com/history/windiscover
 
 workflowSchedule:
-  setup: "20 * * * *"
+  graphs: "30 * * * *"
   updates: "15 * * * *"
   uptime: "*/5 * * * *"
 
