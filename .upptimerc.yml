@@ -23,6 +23,7 @@ status-website:
 
 workflowSchedule:
   summary: "0 * * * *"  # 每小时生成一次报告
+  staticSite: "0 * * * *"
   graphs: "30 * * * *"
   updates: "15 * * * *"
   uptime: "*/5 * * * *"
