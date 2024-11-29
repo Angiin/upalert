@@ -21,12 +21,6 @@ status-website:
     # - title: 网页实时状态监控
     # href: https://windiscover.com/history/windiscover
 
-workflowSchedule:
-  summary: "0 * * * *"  # 每小时生成一次报告
-  staticSite: "0 * * * *"
-  graphs: "30 * * * *"
-  updates: "15 * * * *"
-  uptime: "*/5 * * * *"
 
 i18n:
   activeIncidents: Incidentes activos
