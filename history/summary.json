@@ -4,17 +4,19 @@
     "url": "https://www.windiscover.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.windiscover.com.ico",
     "slug": "windiscover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 370,
-    "timeWeek": 310,
-    "timeMonth": 263,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "time": 262,
+    "timeDay": 295,
+    "timeWeek": 299,
+    "timeMonth": 262,
+    "timeYear": 262,
+    "dailyMinutesDown": {
+      "2024-12-14": 0
+    }
   }
 ]
