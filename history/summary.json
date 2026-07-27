@@ -4,17 +4,17 @@
     "url": "https://www.windiscover.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.windiscover.com.ico",
     "slug": "windiscover",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.81%",
-    "time": 1388,
-    "timeDay": 1265,
-    "timeWeek": 8710,
-    "timeMonth": 4347,
-    "timeYear": 1639,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "85.65%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.77%",
+    "time": 1392,
+    "timeDay": 1620,
+    "timeWeek": 8254,
+    "timeMonth": 4293,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-08-08": 68,
       "2025-11-18": 155,
@@ -23,7 +23,8 @@
       "2026-02-04": 57,
       "2026-05-22": 212,
       "2026-07-22": 206,
-      "2026-07-23": 206
+      "2026-07-23": 206,
+      "2026-07-27": 207
     }
   }
 ]
